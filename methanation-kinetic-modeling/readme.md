@@ -4,9 +4,10 @@
 **Institution:** University of Massachusetts Amherst  
 **Date:** Fall 2025  
 **Note:** Experimental data collected as part of a team lab. 
-Reactor volume determination conducted by team lead. Reaction order 
-determination, rate constant calculation, and Arrhenius analysis 
-conducted independently.
+Background and theoretical analysis section of the lab report written 
+independently. Reaction order determination, rate constant calculation, 
+and Arrhenius analysis — including all MATLAB code — conducted 
+independently.
 
 ---
 
